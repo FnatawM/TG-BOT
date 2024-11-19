@@ -2,7 +2,7 @@
 <hr width="100%" size="2">
 <h1 align = 'center'>1. Бот помощник в учебе</h1>
 <center>
-  <img src="sfedu.jpg" width="300" height="400" align = 'center'>
+  <img align = 'center' src="sfedu.jpg" width="300" height="400">
 </center>
 <h2 align = 'center'>Бот предназначен для облегчения моей учебы. В нем хранятся все полезные ссылки, расписание занятий</h2>
 <hr width="100%" size="2" color="#DCDCDC">
