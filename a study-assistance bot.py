@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 from urllib3 import disable_warnings
 
-bot = telebot.TeleBot('8117885692:AAEJiJ-6am_MCc4kERGl0eh5xF32Rt14h1M') # Ваш токен, который вам присвоеили для работы с ботом
+bot = telebot.TeleBot('') # Ваш токен, который вам присвоеили для работы с ботом
 
 @bot.message_handler(commands=['start']) # Реагирование на команду /start
 def start(message):
